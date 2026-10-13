@@ -1,0 +1,112 @@
+[
+  {
+    "evidence_id": "E01",
+    "branch": "上海胸科：缝线或外环",
+    "structure": "环周缝线与人工血管带状外环分开显示；STJ 稳定为可选步骤。",
+    "limitation": "2021 年 27 例队列：缝线 15 例、外环 5 例、STJ 干预 15 例。未报告这些步骤的完整交叉分母，不能据总数推断某一组合的比例。",
+    "source_locator": "2021 队列，方法 1.2.2",
+    "source_id": "kong",
+    "source_url": "https://doi.org/10.7507/1007-4848.202101038",
+    "evidence_level": "full_text_methods",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "evidence_id": "E02",
+    "branch": "Homburg：测量指导修复",
+    "structure": "瓣叶高度测量、脱垂纠正、环周成形；特定不对称形态可增加融合窦折叠。",
+    "limitation": "不同形态有不同修复路线；图示角度不是所有病例统一的术后目标。",
+    "source_locator": "2024 年技术与结局论文",
+    "source_id": "homburg",
+    "source_url": "https://academic.oup.com/ejcts/article/65/4/ezae163/7645034",
+    "evidence_level": "full_text_methods",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "evidence_id": "E03",
+    "branch": "巴黎：双环与对称化",
+    "structure": "保留根部壁，瓣下带状支持加 STJ 环；功能交界在 STJ 层面对称放置。",
+    "limitation": "对应正常根部分支；图示可含不对称时的融合窦折叠。未模拟材料弹性。",
+    "source_locator": "2019 技术原文，图 16–18",
+    "source_id": "lansac",
+    "source_url": "https://www.annalscts.com/article/view/16614/html",
+    "evidence_level": "full_text_and_figures",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "evidence_id": "E04",
+    "branch": "巴黎：根部重塑与外环",
+    "structure": "重建两个对称新窦，沿残留瓣叶附着缘缝合，并单独增加瓣下外环。",
+    "limitation": "Remodeling 与 David 的根部和瓣环处理不同；图未模拟实际裁剪模板及缝线张力。",
+    "source_locator": "2019 技术原文，图 3–5",
+    "source_id": "lansac",
+    "source_url": "https://www.annalscts.com/article/view/16614/html",
+    "evidence_level": "full_text_and_figures",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "evidence_id": "E05",
+    "branch": "Saint-Luc：180° David",
+    "structure": "保留瓣叶、更换窦壁，交界在新 STJ 层面作 180° 固定，并重植冠脉。",
+    "limitation": "膜部附近基底缝线需调整高度；参考圆不是实际逐针走线。根部尺寸不能单独决定是否采用此策略。",
+    "source_locator": "2022 技术原文，图 9–11",
+    "source_id": "brussels",
+    "source_url": "https://www.annalscts.com/article/view/16944/html",
+    "evidence_level": "full_text_and_figures",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "evidence_id": "E06",
+    "branch": "Cleveland：局部交界工具",
+    "structure": "近交界瓣缘缝合，穿出交界上方主动脉壁并固定于外侧垫片；局部瓣环缩拢独立显示。",
+    "limitation": "针数、距离和张力仅作示意；367 例是 figure-of-8 子集，不代表全队列采用统一操作。",
+    "source_locator": "2024 年论文，方法与图 2",
+    "source_id": "cleveland",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11145234/",
+    "evidence_level": "full_text_and_figures",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "evidence_id": "E07",
+    "branch": "HAART 200 内置环",
+    "structure": "圆形基底设计、相隔 180° 的两个交界柱，略向外倾。",
+    "limitation": "与 HAART 300 及内侧环周缝线不同；图不提供制造尺寸、植入深度或选型依据。",
+    "source_locator": "首次人体研究，器械图 1",
+    "source_id": "haart",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8288553/",
+    "evidence_level": "full_text_and_figures",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "evidence_id": "E08",
+    "branch": "Frankfurt 历史分支",
+    "structure": "分别显示根部再植入，以及再植入加瓣缘心包补片。",
+    "limitation": "1999–2017 历史队列；David 组 34/48 使用补片，不代表当前常规。人工血管塑形针法和未报告的交界角未精确建模。",
+    "source_locator": "2021 年全文，2.3–2.4、表 2 与图 1",
+    "source_id": "frankfurt",
+    "source_url": "https://d-nb.info/1252865430/34",
+    "evidence_level": "full_text_and_figures",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "evidence_id": "E09",
+    "branch": "中山：改良袖式外框",
+    "structure": "保留原生根部壁，显示瓣环、窦部与 STJ 三层外支撑的概念。",
+    "limitation": "摘要支持结构类别；外框裁剪、开孔、冠脉处理及每例瓣叶操作仍缺充分全文细节，不作逐针复现。",
+    "source_locator": "2024 年论文摘要",
+    "source_id": "wang",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/39394626/",
+    "evidence_level": "abstract",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "evidence_id": "E10",
+    "branch": "UKE：内侧与外侧缝线",
+    "structure": "将两种环周缝线位置分开显示；内侧缝线不等同内置硬环。",
+    "limitation": "摘要支持两个类别；圆形走线不代表实际高度、穿针深度和不同瓣型处理已被逐项核验。",
+    "source_locator": "2022 年论文",
+    "source_id": "uke",
+    "source_url": "https://doi.org/10.1016/j.athoracsur.2021.06.021",
+    "evidence_level": "abstract",
+    "evidence_snapshot_date": "2026-09-12"
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "technique_id": "basic-repair",
+    "label": "基本操作：修瓣叶 + 瓣环稳定",
+    "group": "解剖与基本操作",
+    "description": "保留二叶瓣与原生根部，校正融合瓣叶脱垂。",
+    "limitation": "缝线只是稳定方式之一；环型、STJ 与根部处理取决于解剖和修复策略。",
+    "source_id": "homburg",
+    "source_url": "https://academic.oup.com/ejcts/article/65/4/ezae163/7645034",
+    "evidence_level": "full_text_methods",
+    "source_locator": "基本操作依据",
+    "display_parameters": {
+      "ring": "suture"
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "baseline",
+    "label": "解剖底图：融合瓣叶脱垂",
+    "group": "解剖与基本操作",
+    "description": "两片功能瓣叶；融合瓣有融合嵴，游离缘低垂。",
+    "limitation": "不对称几何的机制示意，不用于测量交界角、尺寸或反流量。",
+    "source_id": "homburg",
+    "source_url": "https://academic.oup.com/ejcts/article/65/4/ezae163/7645034",
+    "evidence_level": "full_text_methods",
+    "source_locator": "解剖方法参考",
+    "display_parameters": {
+      "unrepaired": true
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "kong-suture",
+    "label": "孔烨 / 胸科：瓣叶 + 环周缝线",
+    "group": "保留原生根部的分支",
+    "description": "瓣叶修复，加外侧环周缝线；STJ 处理按需。",
+    "limitation": "全文方法支持；15/27 例用缝线成形。附加 STJ 的联合人数未报告。",
+    "source_id": "kong",
+    "source_url": "https://doi.org/10.7507/1007-4848.202101038",
+    "evidence_level": "full_text_methods",
+    "source_locator": "全文：方法 1.2.2",
+    "display_parameters": {
+      "ring": "suture",
+      "optionalStj": true
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "kong",
+    "label": "孔烨 / 胸科：瓣叶 + 人工血管外环",
+    "group": "保留原生根部的分支",
+    "description": "瓣叶修复，加带状人工血管外环；STJ 处理按需。",
+    "limitation": "全文方法支持；5/27 例用此类环。不是每例双环，尺寸和针数仅示意。",
+    "source_id": "kong",
+    "source_url": "https://doi.org/10.7507/1007-4848.202101038",
+    "evidence_level": "full_text_methods",
+    "source_locator": "全文：方法 1.2.2",
+    "display_parameters": {
+      "ring": "dacron",
+      "optionalStj": true
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "homburg",
+    "label": "Schäfers / Homburg：缝线 + 窦部调整",
+    "group": "保留原生根部的分支",
+    "description": "瓣叶修复、环周缝线；不对称形态可作窦部折叠。",
+    "limitation": "全文支持融合窦折叠以改善不对称；图中角度不是固定术后目标。",
+    "source_id": "homburg",
+    "source_url": "https://academic.oup.com/ejcts/article/65/4/ezae163/7645034",
+    "evidence_level": "full_text_methods",
+    "source_locator": "全文：手术方法与讨论",
+    "display_parameters": {
+      "ring": "suture",
+      "sinus": true,
+      "angle": 170
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "uke-internal",
+    "label": "UKE 汉堡：内侧环周缝线",
+    "group": "保留原生根部的分支",
+    "description": "瓣叶修复，瓣环内侧连续缝线稳定。",
+    "limitation": "摘要核验：内侧 PTFE 缝线，不是内置硬环；走针、深度未按原图验证。",
+    "source_id": "uke",
+    "source_url": "https://doi.org/10.1016/j.athoracsur.2021.06.021",
+    "evidence_level": "abstract",
+    "source_locator": "摘要依据，非逐针复刻",
+    "display_parameters": {
+      "ring": "internal",
+      "plication": false
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "uke-external",
+    "label": "UKE 汉堡：外侧环周缝线",
+    "group": "保留原生根部的分支",
+    "description": "瓣叶修复，瓣环外侧环周缝线稳定。",
+    "limitation": "摘要核验：外侧环周缝线；不能据此确定完整手术组合。",
+    "source_id": "uke",
+    "source_url": "https://doi.org/10.1016/j.athoracsur.2021.06.021",
+    "evidence_level": "abstract",
+    "source_locator": "摘要依据，非逐针复刻",
+    "display_parameters": {
+      "ring": "suture",
+      "plication": false
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "lansac-ring",
+    "label": "Lansac / 巴黎：双环 + 180° 对称化",
+    "group": "保留原生根部的分支",
+    "description": "保留根部壁，瓣下带状环加 STJ 环，并重置功能交界。",
+    "limitation": "原图 16–18；图示包含不对称时的融合窦折叠，非人人需要折叠。",
+    "source_id": "lansac",
+    "source_url": "https://www.annalscts.com/article/view/16614/html",
+    "evidence_level": "full_text_and_figures",
+    "source_locator": "全文 + 原图 16–18",
+    "display_parameters": {
+      "ring": "dacron",
+      "stj": true,
+      "angle": 180,
+      "sinus": true
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "cleveland",
+    "label": "Svensson / Cleveland：局部交界工具",
+    "group": "保留原生根部的分支",
+    "description": "瓣叶修复，加局部瓣环缩拢与交界八字缝合工具。",
+    "limitation": "原图 2：瓣缘近交界处缝合，穿出交界上方主动脉壁，固定于外侧垫片。",
+    "source_id": "cleveland",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11145234/",
+    "evidence_level": "full_text_and_figures",
+    "source_locator": "全文 + 原图 2",
+    "display_parameters": {
+      "ring": "cabrol",
+      "hitch": true
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "wang",
+    "label": "王春生 / 中山：改良袖式外框（概念）",
+    "group": "完整根部框架的分支",
+    "description": "保留瓣叶和原生根部壁，外加人工血管框架。",
+    "limitation": "仅摘要：三层外支撑概念。未画未经核验的瓣叶缝法、冠脉开孔或外框裁剪。",
+    "source_id": "wang",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/39394626/",
+    "evidence_level": "abstract",
+    "source_locator": "摘要支持，细节未核验",
+    "display_parameters": {
+      "graft": "sleeve",
+      "plication": false
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "brussels",
+    "label": "El Khoury / de Kerchove：180° David",
+    "group": "完整根部框架的分支",
+    "description": "保留瓣叶，更换窦壁，瓣膜再植入人工血管；冠脉重植。",
+    "limitation": "原图 9–11：交界固定在新 STJ；上方为管段延伸，仍然只有两片瓣叶。",
+    "source_id": "brussels",
+    "source_url": "https://www.annalscts.com/article/view/16944/html",
+    "evidence_level": "full_text_and_figures",
+    "source_locator": "全文 + 原图 9–11",
+    "display_parameters": {
+      "graft": "david",
+      "angle": 180
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "lansac-root",
+    "label": "Lansac / 巴黎：双窦重塑 + 外环",
+    "group": "完整根部框架的分支",
+    "description": "更换窦壁，沿瓣叶附着线重塑根部，另加瓣下外环。",
+    "limitation": "原图 3：两个对称新窦、180° 交界；瓣下外环单独稳定基底。",
+    "source_id": "lansac",
+    "source_url": "https://www.annalscts.com/article/view/16614/html",
+    "evidence_level": "full_text_and_figures",
+    "source_locator": "全文 + 原图 3–5",
+    "display_parameters": {
+      "graft": "remodel",
+      "ring": "external",
+      "angle": 180
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "frankfurt",
+    "label": "法兰克福：历史 David 结构分支",
+    "group": "完整根部框架的分支",
+    "description": "根部再植入加瓣叶修复；不是该中心全部病例。",
+    "limitation": "1999–2017 历史队列。此图只拆解再植入结构，不代表其全部术式或当前标准。",
+    "source_id": "frankfurt",
+    "source_url": "https://d-nb.info/1252865430/34",
+    "evidence_level": "full_text_and_figures",
+    "source_locator": "全文：2.3–2.4，历史分支",
+    "display_parameters": {
+      "graft": "david"
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "frankfurt-patch",
+    "label": "法兰克福：历史 David + 瓣缘补片",
+    "group": "完整根部框架的分支",
+    "description": "保留瓣叶并增加瓣缘补片，再加根部再植入。",
+    "limitation": "原图 1；历史 David 组 34/48 例用补片。不代表当前常规。",
+    "source_id": "frankfurt",
+    "source_url": "https://d-nb.info/1252865430/34",
+    "evidence_level": "full_text_and_figures",
+    "source_locator": "全文 + 原图 1，历史分支",
+    "display_parameters": {
+      "graft": "david",
+      "patch": true
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "fuwai",
+    "label": "阜外：分类修复，具体组合待核实",
+    "group": "没有足够资料指定具体术式",
+    "description": "公开分类策略不等于全体病例采用一种固定手术。",
+    "limitation": "仅显示解剖底图；不据总例数推定某一根部或瓣环术式。",
+    "source_id": "",
+    "source_url": "",
+    "evidence_level": "insufficient_to_specify_intervention",
+    "source_locator": "",
+    "display_parameters": {
+      "unknown": true,
+      "unrepaired": true
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "technique_id": "haart",
+    "label": "HAART 200：内置成形环（器械对照）",
+    "group": "器械对照，不是医生排名",
+    "description": "保留原瓣，在瓣下放置有几何形状的内置成形环。",
+    "limitation": "原图 1：圆形基底设计、180° 双柱并略外倾；非制造级尺寸。",
+    "source_id": "haart",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8288553/",
+    "evidence_level": "full_text_and_figures",
+    "source_locator": "全文 + 器械原图 1",
+    "display_parameters": {
+      "ring": "haart",
+      "angle": 180
+    },
+    "parameter_semantics": "schematic_display_only",
+    "evidence_snapshot_date": "2026-09-12"
+  }
+]

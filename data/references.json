@@ -1,0 +1,101 @@
+[
+  {
+    "source_id": "homburg",
+    "label": "Homburg 测量指导修复",
+    "title": "Twenty-five years' experience with isolated bicuspid aortic valve repair: impact of commissural orientation.",
+    "doi": "10.1093/ejcts/ezae163",
+    "pmid": "38608189",
+    "publication_year": 2024,
+    "url": "https://academic.oup.com/ejcts/article/65/4/ezae163/7645034",
+    "evidence_level": "full_text_methods",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "source_id": "kong",
+    "label": "上海胸科 BAV 修复 27 例",
+    "title": "Short and mid-term outcomes of valve repair in patients with insufficient bicuspid aortic valves",
+    "doi": "10.7507/1007-4848.202101038",
+    "pmid": "",
+    "publication_year": 2021,
+    "url": "https://doi.org/10.7507/1007-4848.202101038",
+    "evidence_level": "full_text_methods",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "source_id": "uke",
+    "label": "UKE 内侧与外侧缝线成形",
+    "title": "Aortic Valve Repair in Annular Dilatation: External vs Internal Suture Annuloplasty.",
+    "doi": "10.1016/j.athoracsur.2021.06.021",
+    "pmid": "34237289",
+    "publication_year": 2022,
+    "url": "https://doi.org/10.1016/j.athoracsur.2021.06.021",
+    "evidence_level": "abstract",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "source_id": "wang",
+    "label": "中山三维解剖修复 130 例",
+    "title": "[Therapeutic results of three-dimensional aortic valve anatomic repair for regurgitant bicuspid aortic valve].",
+    "doi": "10.3760/cma.j.cn112139-20240212-00071",
+    "pmid": "39394626",
+    "publication_year": 2024,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39394626/",
+    "evidence_level": "abstract",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "source_id": "brussels",
+    "label": "Saint-Luc 180° 再植入技术",
+    "title": "Bicuspid aortic valve repair: the 180°-Reimplantation technique",
+    "doi": "10.21037/acs-2022-bav-18",
+    "pmid": "35958541",
+    "publication_year": 2022,
+    "url": "https://www.annalscts.com/article/view/16944/html",
+    "evidence_level": "full_text_and_figures",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "source_id": "lansac",
+    "label": "巴黎表型导向修复技术",
+    "title": "Bicuspid aortic valve repair adapted to aortic phenotype",
+    "doi": "10.21037/acs.2019.04.13",
+    "pmid": "",
+    "publication_year": 2019,
+    "url": "https://www.annalscts.com/article/view/16614/html",
+    "evidence_level": "full_text_and_figures",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "source_id": "cleveland",
+    "label": "Cleveland figure-of-8 修复",
+    "title": "Long-term outcome of bicuspid aortic valve repair using figure-of-8 hitch-up stitches.",
+    "doi": "10.1016/j.xjtc.2024.01.012",
+    "pmid": "38835563",
+    "publication_year": 2024,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11145234/",
+    "evidence_level": "full_text_and_figures",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "source_id": "frankfurt",
+    "label": "Frankfurt 历史修复队列",
+    "title": "Longer-term outcomes after bicuspid aortic valve repair in 142 patients.",
+    "doi": "10.1111/jocs.16006",
+    "pmid": "",
+    "publication_year": 2021,
+    "url": "https://d-nb.info/1252865430/34",
+    "evidence_level": "full_text_and_figures",
+    "evidence_snapshot_date": "2026-09-12"
+  },
+  {
+    "source_id": "haart",
+    "label": "HAART 200 首次人体研究",
+    "title": "Bicuspid aortic valve repair using geometric ring annuloplasty: A first-in-humans pilot trial.",
+    "doi": "10.1016/j.xjtc.2019.12.005",
+    "pmid": "34317698",
+    "publication_year": 2020,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8288553/",
+    "evidence_level": "full_text_and_figures",
+    "evidence_snapshot_date": "2026-09-12"
+  }
+]

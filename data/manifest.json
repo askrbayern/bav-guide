@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "release_date": "2026-10-13",
+  "evidence_snapshot_date": "2026-09-12",
+  "scope": "与三维结构教学对应的选择性文献数据；不是系统综述或独立患者集合",
+  "datasets": {
+    "techniques": {
+      "rows": 16,
+      "json": "techniques.json",
+      "csv": "techniques.csv"
+    },
+    "evidence": {
+      "rows": 10,
+      "json": "evidence.json",
+      "csv": "evidence.csv"
+    },
+    "references": {
+      "rows": 9,
+      "json": "references.json",
+      "csv": "references.csv"
+    },
+    "cohorts": {
+      "rows": 5,
+      "json": "cohorts.json",
+      "csv": "cohorts.csv"
+    },
+    "observations": {
+      "rows": 21,
+      "json": "observations.json",
+      "csv": "observations.csv"
+    }
+  }
+}
